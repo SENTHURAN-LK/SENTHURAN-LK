@@ -1,6 +1,6 @@
 # Senthuran L K
 
-**Portfolio · 2025 · Coimbatore, India**
+**Portfolio · 2026 · Coimbatore, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/senthuran-lk)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/senthuranlk)
@@ -12,7 +12,7 @@
 
 I build **companies, products, and experiences** across EdTech, creative marketing, and software. Currently running ventures in **three industries** while vibe-coding SaaS apps and laying the groundwork for a **renewable energy company**.
 
-| 4 active ventures | 3 industries | ∞ things building | Coimbatore, India |
+| 4 active ventures | 3 industries | 11+ clients served | ∞ things building |
 |:-----------------:|:------------:|:-----------------:|:-----------------:|
 
 ---
